@@ -1,0 +1,1 @@
+I'm currently going through a full stack web development course. I'm working on the css section, I know the website looks terrible lol, but I'm just practicing and trying to "build in public". Also all of the images came from pexels.com look at the source code for links to the images, all credit goes to the original photographers
